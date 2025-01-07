@@ -1,1 +1,1 @@
-# Developed a time series model using RStudio
+Developed a time series model using RStudio
