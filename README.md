@@ -1,1 +1,1 @@
-# Time-Series-Modelling
+# Developed a time series model using RStudio
